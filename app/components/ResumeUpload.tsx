@@ -2,7 +2,7 @@
 
 import { useState, useRef } from 'react'
 import { motion } from 'framer-motion'
-import { X, Upload, FileText, Edit3 } from 'lucide-react'
+import { X, Upload, FileText, CreditCard as Edit3 } from 'lucide-react'
 import Modal from './Modal'
 import ProgressBuilder from './ProgressBuilder'
 
